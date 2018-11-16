@@ -21,4 +21,4 @@ client.user.setStatus("dnd")
 
 
 
- client.login(" التوكن ");
+ client.login(" process.env.USER_TOKEN ");
